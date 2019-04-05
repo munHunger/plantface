@@ -1,0 +1,30 @@
+{
+  "name": "plantFace",
+  "version": "1.0.0",
+  "description": "What if your plant had a face?",
+  "main": "node.js",
+  "scripts": {
+    "run": "node node.js"
+  },
+  "author": "uppsala",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "7.1.4",
+    "chalk": "^2.3.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "lodash": "^4.17.4",
+    "winston": "^3.1.0",
+    "eslint": "^4.12.1",
+    "jasmine": "^2.8.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
